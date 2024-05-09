@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: GridView.count(
         crossAxisCount: 2, // biar setiap row hanya nampilin 2 produk
-        childAspectRatio: productWidth / (productWidth + 100), // atur tinggi rownya
+        childAspectRatio: productWidth / (productWidth + 80), // atur tinggi rownya
         // loop data produk
         children: List.generate(products.length, (index) {
           final product = products[index];
