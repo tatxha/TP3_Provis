@@ -74,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
     Product(name: 'Product 7', imagePath: 'assets/image1.jpg'),
     Product(name: 'Product 8', imagePath: 'assets/image1.jpg'),
     Product(name: 'Product 9', imagePath: 'assets/image1.jpg'),
-    Product(name: 'Product 10', imagePath: 'assets/image1.jpg'),
+    Product(name: 'Unyung', imagePath: 'assets/image1.jpg'),
     // Add more products here
   ];
 
